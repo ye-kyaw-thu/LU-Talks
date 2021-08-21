@@ -12,7 +12,7 @@ y
 ## Table of Content  
 
 1. Africa Prize: The Low-cost Ventilator (ShiVent) for Patients with Coronavirus  
-Guest Speaker: Yusuf Bilesanmi, Nigerian, Ph.D. student at Lough Borough University, UK  
+Guest Speaker: Yusuf Bilesanmi, Nigerian, Ph.D. student at Loughborough University, UK  
 Date: 21 Aug 2021  
 Video Link: [https://www.youtube.com/watch?v=NkZz4xYlHRA&list=PLcEIKqU2ZkWLjNnzIJTFSMlm6gbLoc-Gh&index=1](https://www.youtube.com/watch?v=NkZz4xYlHRA&list=PLcEIKqU2ZkWLjNnzIJTFSMlm6gbLoc-Gh&index=1)  
 
