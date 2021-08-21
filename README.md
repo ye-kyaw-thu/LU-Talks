@@ -1,4 +1,4 @@
-# LU-Talks-
+# LU-Talks
 Talks organized by Language Understanding Lab.
 
 လက်ရှိ co-supervising လုပ်ပေးနေတဲ့ မဟာတန်းကျောင်းသား၊ ဒေါက်တာတန်းကျောင်းသားတွေနဲ့ လစဉ် seminar လုပ်လေ့ရှိပါတယ်။  
