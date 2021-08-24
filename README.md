@@ -11,7 +11,7 @@ y
 
 ## Table of Content  
 
-1. **Africa Prize: The Low-cost Ventilator (ShiVent) for Patients with Coronavirus**  
+1. Title: **Africa Prize: The Low-cost Ventilator (ShiVent) for Patients with Coronavirus**  
 Guest Speaker: **Yusuf Bilesanmi**, Nigerian, Ph.D. student at Loughborough University, UK  
 Date: **21 Aug 2021**  
 Poster: [poster-for-21aug2021.jpg](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/poster/poster-for-21aug2021.jpg)  
