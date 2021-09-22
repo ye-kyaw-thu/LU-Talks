@@ -18,6 +18,14 @@ Poster: [poster-for-21aug2021.jpg](https://github.com/ye-kyaw-thu/LU-Talks/blob/
 Presentation Slide: [ShiVent-Myanmmar.pdf](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/slide/ShiVent-Myanmmar.pdf)  
 Video Link: [https://www.youtube.com/watch?v=NkZz4xYlHRA&list=PLcEIKqU2ZkWLjNnzIJTFSMlm6gbLoc-Gh&index=1](https://www.youtube.com/watch?v=NkZz4xYlHRA&list=PLcEIKqU2ZkWLjNnzIJTFSMlm6gbLoc-Gh&index=1)  
 
-2. 
+2. Title: **Technologies and AI/ML Applications for Persons with Disabilities**  
+Guest Speaker: **Chatchawarn Hansakunbuntheun, PhD.**, Researcher  
+Assistive Technology and Medical Devices Research Center (A-MED)   
+National Science and Technology Development Agency (NSTDA)   
+Date: **1 Oct 2021**   
+
+3. Title: **Radio Something**  
+Guest Speaker: **Yosuke Uchiyama**, KDDI Foundation & KDDI Corporation  
+Date: **1 Oct 2021**   
 
 
