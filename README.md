@@ -21,11 +21,11 @@ Video Link: [https://www.youtube.com/watch?v=NkZz4xYlHRA&list=PLcEIKqU2ZkWLjNnzI
 2. Title: **Technologies and AI/ML Applications for Persons with Disabilities**  
 Guest Speaker: **Chatchawarn Hansakunbuntheun, PhD.**, Researcher  
 Assistive Technology and Medical Devices Research Center (A-MED)   
-National Science and Technology Development Agency (NSTDA)   
+National Science and Technology Development Agency (NSTDA), Thailand   
 Date: **1 Oct 2021**   
 
 3. Title: **Radio Something**  
-Guest Speaker: **Yosuke Uchiyama**, KDDI Foundation & KDDI Corporation  
+Guest Speaker: **Yosuke Uchiyama**, KDDI Foundation & KDDI Corporation, Japan  
 Date: **1 Oct 2021**   
 
 
