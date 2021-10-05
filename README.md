@@ -22,18 +22,21 @@ Video Link: [https://www.youtube.com/watch?v=NkZz4xYlHRA&list=PLcEIKqU2ZkWLjNnzI
 Guest Speaker: **Dr. Yoshiyori Urano**, 
 Professor Emeritus, Waseda University, Japan
 Date: **1 Oct 2021**  
-Time: 08:30 AM (Myanmar Time), 11:00 AM (Japan Time)
+Time: 08:30 AM (Myanmar Time), 11:00 AM (Japan Time)  
+Poster: [Prof-URANO-poster-1Oct2021.jpg](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/poster/Prof-URANO-poster-1Oct2021.jpg)  
 
 3. Title: **Technologies and AI/ML Applications for Persons with Disabilities**  
 Guest Speaker: **Chatchawarn Hansakunbuntheun, PhD.**, Researcher  
 Assistive Technology and Medical Devices Research Center (A-MED)   
 National Science and Technology Development Agency (NSTDA), Thailand   
 Date: **1 Oct 2021**   
-Time: 10:30 AM (Myanmar Time), 13:00 PM (Japan Time)
+Time: 10:30 AM (Myanmar Time), 13:00 PM (Japan Time)  
+Poster: [Dr-Chatchawarn-poster-1Oct2021.jpg](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/poster/Dr-Chatchawarn-poster-1Oct2021.jpg)  
 
 4. Title: **Amateur radio, so called "HAM RADIO"**  
 Guest Speaker: **Yosuke Uchiyama**, KDDI Foundation & KDDI Corporation, Japan  
 Date: **1 Oct 2021**   
-Time: 13:00 PM (Myanmar Time), 15:30 PM (Japan Time)
+Time: 13:00 PM (Myanmar Time), 15:30 PM (Japan Time)  
+Poster: [Uchiyama-san-poster-1Oct2021.jpg](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/poster/Uchiyama-san-poster-1Oct2021.jpg)  
 
 
