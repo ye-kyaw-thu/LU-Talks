@@ -18,14 +18,22 @@ Poster: [poster-for-21aug2021.jpg](https://github.com/ye-kyaw-thu/LU-Talks/blob/
 Presentation Slide: [ShiVent-Myanmmar.pdf](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/slide/ShiVent-Myanmmar.pdf)  
 Video Link: [https://www.youtube.com/watch?v=NkZz4xYlHRA&list=PLcEIKqU2ZkWLjNnzIJTFSMlm6gbLoc-Gh&index=1](https://www.youtube.com/watch?v=NkZz4xYlHRA&list=PLcEIKqU2ZkWLjNnzIJTFSMlm6gbLoc-Gh&index=1)  
 
-2. Title: **Technologies and AI/ML Applications for Persons with Disabilities**  
+2. Title: **Let's Talk about Dreams!**  
+Guest Speaker: **Dr. Yoshiyori Urano**, 
+Professor Emeritus, Waseda University, Japan
+Date: **1 Oct 2021**  
+Time: 08:30 AM (Myanmar Time), 11:00 AM (Japan Time)
+
+3. Title: **Technologies and AI/ML Applications for Persons with Disabilities**  
 Guest Speaker: **Chatchawarn Hansakunbuntheun, PhD.**, Researcher  
 Assistive Technology and Medical Devices Research Center (A-MED)   
 National Science and Technology Development Agency (NSTDA), Thailand   
 Date: **1 Oct 2021**   
+Time: 10:30 AM (Myanmar Time), 13:00 PM (Japan Time)
 
-3. Title: **Radio Something**  
+4. Title: **Amateur radio, so called "HAM RADIO"**  
 Guest Speaker: **Yosuke Uchiyama**, KDDI Foundation & KDDI Corporation, Japan  
 Date: **1 Oct 2021**   
+Time: 13:00 PM (Myanmar Time), 15:30 PM (Japan Time)
 
 
