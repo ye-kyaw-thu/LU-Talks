@@ -32,6 +32,7 @@ National Science and Technology Development Agency (NSTDA), Thailand
 Date: **1 Oct 2021**   
 Time: 10:30 AM (Myanmar Time), 13:00 PM (Japan Time)  
 Poster: [Dr-Chatchawarn-poster-1Oct2021.jpg](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/poster/Dr-Chatchawarn-poster-1Oct2021.jpg)  
+Presentation Slide: [211001_AT_AI_ML_PewD_s.pdf](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/slide/211001_AT_AI_ML_PewD_s.pdf)  
 
 4. Title: **Amateur radio, so called "HAM RADIO"**  
 Guest Speaker: **Yosuke Uchiyama**, KDDI Foundation & KDDI Corporation, Japan  
