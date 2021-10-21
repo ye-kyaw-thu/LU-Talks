@@ -20,7 +20,7 @@ Video Link: [https://www.youtube.com/watch?v=NkZz4xYlHRA&list=PLcEIKqU2ZkWLjNnzI
 
 2. Title: **Let's Talk about Dreams!**  
 Guest Speaker: **Dr. Yoshiyori Urano**, 
-Professor Emeritus, Waseda University, Japan
+Professor Emeritus, Waseda University, Japan  
 Date: **1 Oct 2021**  
 Time: 08:30 AM (Myanmar Time), 11:00 AM (Japan Time)  
 Poster: [Prof-URANO-poster-1Oct2021.jpg](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/poster/Prof-URANO-poster-1Oct2021.jpg)  
