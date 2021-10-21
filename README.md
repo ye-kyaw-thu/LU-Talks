@@ -40,5 +40,6 @@ Guest Speaker: **Yosuke Uchiyama**, KDDI Foundation & KDDI Corporation, Japan
 Date: **1 Oct 2021**   
 Time: 13:00 PM (Myanmar Time), 15:30 PM (Japan Time)  
 Poster: [Uchiyama-san-poster-1Oct2021.jpg](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/poster/Uchiyama-san-poster-1Oct2021.jpg)  
+Presentation Slide: [20211001%20Presentation%20Uchiyama.pdf](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/slide/20211001%20Presentation%20Uchiyama.pdf)  
 
 
