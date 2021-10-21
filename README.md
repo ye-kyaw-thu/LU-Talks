@@ -24,6 +24,7 @@ Professor Emeritus, Waseda University, Japan
 Date: **1 Oct 2021**  
 Time: 08:30 AM (Myanmar Time), 11:00 AM (Japan Time)  
 Poster: [Prof-URANO-poster-1Oct2021.jpg](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/poster/Prof-URANO-poster-1Oct2021.jpg)  
+Presentation Slide: [2021.10-a-Lets-talk-about-Dreams-ICT-based-Supports-for-Social-Participation-by-Seniors.pdf](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/slide/2021.10-a-Lets-talk-about-Dreams-ICT-based-Supports-for-Social-Participation-by-Seniors.pdf)  
 
 3. Title: **Technologies and AI/ML Applications for Persons with Disabilities**  
 Guest Speaker: **Chatchawarn Hansakunbuntheun, PhD.**, Researcher  
