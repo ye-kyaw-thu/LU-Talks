@@ -42,7 +42,7 @@ Poster: [Uchiyama-san-poster-1Oct2021.jpg](https://github.com/ye-kyaw-thu/LU-Tal
 Presentation Slide: [20211001%20Presentation%20Uchiyama.pdf](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/slide/20211001%20Presentation%20Uchiyama.pdf)  
 
 5. Title: **My Life's Journey as a Researcher and Beyond**  
-Guest Speaker: **Dr. Ronnie Serfa Juan**, 
+Guest Speaker: **Dr. Ronnie Serfa Juan**,  
 Researcher, Intelligent Construction Automation Research Center,  
 Kyungpook National University, South Korea  
 Date: **6 Nov 2021**   
