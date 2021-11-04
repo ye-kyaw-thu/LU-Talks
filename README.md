@@ -42,4 +42,14 @@ Time: 13:00 PM (Myanmar Time), 15:30 PM (Japan Time)
 Poster: [Uchiyama-san-poster-1Oct2021.jpg](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/poster/Uchiyama-san-poster-1Oct2021.jpg)  
 Presentation Slide: [20211001%20Presentation%20Uchiyama.pdf](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/slide/20211001%20Presentation%20Uchiyama.pdf)  
 
+5. Title: **My Life's Journey as a Researcher and Beyond**  
+Guest Speaker: **Dr. Ronnie Serfa Juan**, 
+Researcher, Intelligent Construction Automation Research Center,  
+Kyungpook National University, South Korea  
+Date: **6 Nov 2021**   
+Time: 10:30 AM (Myanmar Time), 13:00 PM (Korea Time)  
+Poster: []()  
+Presentation Slide:   
+
+
 
