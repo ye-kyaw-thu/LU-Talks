@@ -4,4 +4,4 @@ TOC
 2. Let's Talk about Dreams!, Filename: Prof-URANO-poster-1Oct2021.jpg
 3. Technologies and AI/ML Applications for Persons with Disabilities, Filename: Dr-Chatchawarn-poster-1Oct2021.jpg
 4. Amateur radio, so called "HAM RADIO", Filename: Uchiyama-san-poster-1Oct2021.jpg
-5. My Life's Journey as a Researcher and Beyond, Filename: 
+5. My Life's Journey as a Researcher and Beyond, Filename: dr-ronnie.jpg
