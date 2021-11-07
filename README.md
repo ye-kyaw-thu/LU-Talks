@@ -47,7 +47,7 @@ Researcher, Intelligent Construction Automation Research Center,
 Kyungpook National University, South Korea  
 Date: **6 Nov 2021**   
 Time: 10:30 AM (Myanmar Time), 13:00 PM (Korea Time)  
-Poster: []()  
+Poster: [dr-ronnie.jpg](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/poster/dr-ronnie.jpg)  
 Presentation Slide:   
 
 
