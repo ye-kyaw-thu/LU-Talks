@@ -48,7 +48,7 @@ Kyungpook National University, South Korea
 Date: **6 Nov 2021**   
 Time: 10:30 AM (Myanmar Time), 13:00 PM (Korea Time)  
 Poster: [dr-ronnie.jpg](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/poster/dr-ronnie.jpg)  
-Presentation Slide:   
+Presentation Slide: [Dr.Ronnie_Myanmar-ppt.pdf](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/slide/Dr.Ronnie_Myanmar-ppt.pdf)  
 
 
 
