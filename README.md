@@ -50,5 +50,14 @@ Time: 10:30 AM (Myanmar Time), 13:00 PM (Korea Time)
 Poster: [dr-ronnie.jpg](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/poster/dr-ronnie.jpg)  
 Presentation Slide: [Dr.Ronnie_Myanmar-ppt.pdf](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/slide/Dr.Ronnie_Myanmar-ppt.pdf)  
 
+6. Title: **My Recent R&D Activities**  
+Guest Speaker: **Akkharawoot Takhom, PhD**,  
+Postdoc,Language and Semantic Technology,  
+National Science and Technology Development Agency (NSTDA), Thailand  
+Date: **4 Dec 2021**
+Time: 9:30 AM (Myanmar Time), 10:00 (Thailand Time)  
+Poster:   
+Presentation Slide:  
+
 
 
