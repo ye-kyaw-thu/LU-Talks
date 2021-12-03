@@ -56,7 +56,7 @@ Postdoc,Language and Semantic Technology,
 National Science and Technology Development Agency (NSTDA), Thailand  
 Date: **4 Dec 2021**
 Time: 9:30 AM (Myanmar Time), 10:00 (Thailand Time)  
-Poster: [https://github.com/ye-kyaw-thu/LU-Talks/blob/main/poster/Dr.AkkharawootTakhom-update.pdf](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/poster/Dr.AkkharawootTakhom-update.pdf)    
+Poster: [Dr.AkkharawootTakhom-update.jpg](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/poster/Dr.AkkharawootTakhom-update.jpg)    
 Presentation Slide: []()   
 
 
