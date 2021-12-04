@@ -57,7 +57,7 @@ National Science and Technology Development Agency (NSTDA), Thailand
 Date: **4 Dec 2021**
 Time: 9:30 AM (Myanmar Time), 10:00 (Thailand Time)  
 Poster: [Dr.AkkharawootTakhom-update.jpg](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/poster/Dr.AkkharawootTakhom-update.jpg)    
-Presentation Slide: []()   
+Presentation Slide: [present-LUSeminar_Akkharawoot-TAKHOM_V1_02-12-2021.pdf](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/slide/present-LUSeminar_Akkharawoot-TAKHOM_V1_02-12-2021.pdf)   
 
 
 
