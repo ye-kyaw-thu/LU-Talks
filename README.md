@@ -64,7 +64,7 @@ Guest Speaker: **Dr. Winn Aung, Senior Researcher**,
 Department of Molecular Imaging and Theranostics, Institute for Quantum Medical Sciences,  
 National Institutes for Quantum Science and Technology, 4-9-1 Anagawa, Inage-ku, Chiba 263-8555, Japan  
 Date: **8 Jan 2022**  
-Time: 9:00 AM (Myanmar Time), 11:30 (Thailand Time)  
+Time: 9:00 AM (Myanmar Time), 11:30 (Japan Time)  
 Poster: []()    
 Presentation Slide: []()   
 
