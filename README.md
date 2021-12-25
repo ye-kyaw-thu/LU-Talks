@@ -59,5 +59,14 @@ Time: 9:30 AM (Myanmar Time), 10:00 (Thailand Time)
 Poster: [Dr.AkkharawootTakhom-update.jpg](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/poster/Dr.AkkharawootTakhom-update.jpg)    
 Presentation Slide: [present-LUSeminar_Akkharawoot-TAKHOM_V1_02-12-2021.pdf](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/slide/present-LUSeminar_Akkharawoot-TAKHOM_V1_02-12-2021.pdf)   
 
+7. Title: **Pancreatic Cancer Research using Molecular Imaging and Animal Models**  
+Guest Speaker: **Dr. Winn Aung, Senior Researcher**,  
+Department of Molecular Imaging and Theranostics, Institute for Quantum Medical Sciences,  
+National Institutes for Quantum Science and Technology, 4-9-1 Anagawa, Inage-ku, Chiba 263-8555, Japan  
+Date: **8 Jan 2022**
+Time: 9:00 AM (Myanmar Time), 11:30 (Thailand Time)  
+Poster: []()    
+Presentation Slide: []()   
+
 
 
