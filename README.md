@@ -67,7 +67,7 @@ National Institutes for Quantum Science and Technology, 4-9-1 Anagawa, Inage-ku,
 Date: **8 Jan 2022**  
 Time: 9:00 AM (Myanmar Time), 11:30 (Japan Time)  
 Poster: []()    
-Presentation Slide: []()   
+Presentation Slide: [220108-Seminar.pdf](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/slide/220108-Seminar.pdf)   
 
 
 
