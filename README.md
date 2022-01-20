@@ -11,7 +11,8 @@ y
 ## Table of Content  
 
 1. Title: **Africa Prize: The Low-cost Ventilator (ShiVent) for Patients with Coronavirus**  
-Guest Speaker: **Yusuf Bilesanmi**, Nigerian, Ph.D. student at Loughborough University, UK  
+Guest Speaker: **Yusuf Bilesanmi**,  
+Nigerian, Ph.D. student at Loughborough University, UK  
 Date: **21 Aug 2021**  
 Poster: [poster-for-21aug2021.jpg](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/poster/poster-for-21aug2021.jpg)  
 Presentation Slide: [ShiVent-Myanmmar.pdf](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/slide/ShiVent-Myanmmar.pdf)  
@@ -71,7 +72,9 @@ Presentation Slide: [220108-Seminar.pdf](https://github.com/ye-kyaw-thu/LU-Talks
 
 8. Title: **Improving Automatic Speech Recognition by Joint Training with Speaker Recognition and Translation Task**  
 Guest Speaker: **Mr. Kak Soky**,  
-Ph.D. Candidate, Speech and Audio Processing Laboratory (Karaharalab), Kyoto University, Kyoto, Japan  
+Ph.D. Candidate, Speech and Audio Processing Laboratory (Karaharalab),  
+School of Informatics, Department of Intelligence Science and Technology, 
+Kyoto University, Kyoto, Japan  
 Date: **29 Jan 2022**  
 Time: 11:00 AM (Myanmar Time), 13:30 (Japan Time)  
 Poster: []()    
