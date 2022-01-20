@@ -69,5 +69,14 @@ Time: 9:00 AM (Myanmar Time), 11:30 (Japan Time)
 Poster: [Pancreatic-Cancer-Research-using-Molecular-Imaging.pdf](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/poster/Pancreatic-Cancer-Research-using-Molecular-Imaging.pdf)    
 Presentation Slide: [220108-Seminar.pdf](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/slide/220108-Seminar.pdf)   
 
+8. Title: **Improving Automatic Speech Recognition by Joint Training with Speaker Recognition and Translation Task**  
+Guest Speaker: **Mr. Kak Soky**,  
+Ph.D. Candidate, Speech and Audio Processing Laboratory (Karaharalab),  
+Kyoto University, Kyoto, Japan  
+Date: **29 Jan 2022**  
+Time: 11:00 AM (Myanmar Time), 13:30 (Japan Time)  
+Poster: []()    
+Presentation Slide: []()  
+
 
 
