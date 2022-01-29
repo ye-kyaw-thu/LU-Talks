@@ -77,7 +77,7 @@ School of Informatics, Department of Intelligence Science and Technology,
 Kyoto University, Kyoto, Japan  
 Date: **29 Jan 2022**  
 Time: 11:00 AM (Myanmar Time), 13:30 (Japan Time)  
-Poster: []()    
+Poster: [KakSoky-poster.pdf](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/poster/KakSoky-poster.pdf)    
 Presentation Slide: []()  
 
 
