@@ -78,7 +78,7 @@ Kyoto University, Kyoto, Japan
 Date: **29 Jan 2022**  
 Time: 11:00 AM (Myanmar Time), 13:30 (Japan Time)  
 Poster: [KakSoky-poster.pdf](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/poster/KakSoky-poster.pdf)    
-Presentation Slide: []()  
+Presentation Slide: [soky-LUtalk29Jan2022.pdf](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/slide/soky-LUtalk29Jan2022.pdf)  
 
 
 
