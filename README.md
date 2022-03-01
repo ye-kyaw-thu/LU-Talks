@@ -84,8 +84,8 @@ Presentation Slide: [soky-LUtalk29Jan2022.pdf](https://github.com/ye-kyaw-thu/LU
 Guest Speaker: **Dr. Moe Kyaw Thu**,  
 JAMSTEC, JAPAN  
 Date: **18 Feb 2022**  
-Time:    
-Poster: []()    
+Time: 9:00 AM (Myanmar Time), 11:30 (Japan Time)     
+Poster: [poster-Dr.MoeKyawThu-Talk.pdf](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/poster/poster-Dr.MoeKyawThu-Talk.pdf)    
 Presentation Slide (Draft Version): [Handout-SustainableResourcesExploration-MarineFrontierS-MoeKyawThu-202202.pdf](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/slide/Handout-SustainableResourcesExploration-MarineFrontierS-MoeKyawThu-202202.pdf)  
 
 
