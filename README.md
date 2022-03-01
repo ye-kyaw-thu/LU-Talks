@@ -86,7 +86,7 @@ JAMSTEC, JAPAN
 Date: **18 Feb 2022**  
 Time:    
 Poster: []()    
-Presentation Slide: []()  
+Presentation Slide (Draft Version): [Handout-SustainableResourcesExploration-MarineFrontierS-MoeKyawThu-202202.pdf](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/slide/Handout-SustainableResourcesExploration-MarineFrontierS-MoeKyawThu-202202.pdf)  
 
 
 
