@@ -88,5 +88,11 @@ Time: 9:00 AM (Myanmar Time), 11:30 (Japan Time)
 Poster: [poster-Dr.MoeKyawThu-Talk.pdf](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/poster/poster-Dr.MoeKyawThu-Talk.pdf)    
 Presentation Slide (Draft Version): [Handout-SustainableResourcesExploration-MarineFrontierS-MoeKyawThu-202202.pdf](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/slide/Handout-SustainableResourcesExploration-MarineFrontierS-MoeKyawThu-202202.pdf)  
 
-
+10. Title: **Linguistics in a Nutshell**  
+Guest Speaker: **Dhanon Leenoi**,  
+LST, NECTEC, Thailand  
+Date: **19 Mar 2022**  
+Time: 9:30 AM (Myanmar Time), 10:00 (Thailand Time)     
+Poster:      
+Presentation Slide: 
 
