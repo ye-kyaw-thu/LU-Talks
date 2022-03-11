@@ -81,16 +81,14 @@ Poster: [KakSoky-poster.pdf](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/p
 Presentation Slide: [soky-LUtalk29Jan2022.pdf](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/slide/soky-LUtalk29Jan2022.pdf)  
 
 9. Title: **Sustainable Resources Exploration in Federal Myanmar’s Marine Frontier**  
-Guest Speaker: **Dr. Moe Kyaw Thu**,  
-JAMSTEC, JAPAN  
+Guest Speaker: **Dr. Moe Kyaw Thu**, JAMSTEC, JAPAN  
 Date: **18 Feb 2022**  
 Time: 9:00 AM (Myanmar Time), 11:30 (Japan Time)     
 Poster: [poster-Dr.MoeKyawThu-Talk.pdf](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/poster/poster-Dr.MoeKyawThu-Talk.pdf)    
 Presentation Slide (Draft Version): [Handout-SustainableResourcesExploration-MarineFrontierS-MoeKyawThu-202202.pdf](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/slide/Handout-SustainableResourcesExploration-MarineFrontierS-MoeKyawThu-202202.pdf)  
 
 10. Title: **Linguistics in a Nutshell**  
-Guest Speaker: **Dhanon Leenoi**,  
-LST, NECTEC, Thailand  
+Guest Speaker: **Dhanon Leenoi**, LST, NECTEC, Thailand  
 Date: **19 Mar 2022**  
 Time: 9:30 AM (Myanmar Time), 10:00 (Thailand Time)     
 Poster:      
