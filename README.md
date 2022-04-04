@@ -94,3 +94,9 @@ Time: 9:30 AM (Myanmar Time), 10:00 (Thailand Time)
 Poster:      
 Presentation Slide: [Linguistics-in-a-nutshell.pdf](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/slide/Linguistics-in-a-nutshell.pdf)  
 
+11. Title: **???**  
+Guest Speaker: **Daniel Ryu**, US  
+Date: **23 Apr 2022**  
+Time: 10:00 AM (Myanmar Time), 10:30 (Thailand Time)     
+Poster:       
+Presentation Slide:  
