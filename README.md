@@ -94,9 +94,9 @@ Time: 9:30 AM (Myanmar Time), 10:00 (Thailand Time)
 Poster:      
 Presentation Slide: [Linguistics-in-a-nutshell.pdf](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/slide/Linguistics-in-a-nutshell.pdf)  
 
-11. Title: **???**  
-Guest Speaker: **Daniel Ryu**, US  
+11. Title: **Go overseas, See the world**  
+Guest Speaker: **Daniel Ryu**, Engineer development process director, PlayStation, Sony, USA  
 Date: **23 Apr 2022**  
-Time: 10:00 AM (Myanmar Time), 10:30 (Thailand Time)     
-Poster:       
-Presentation Slide:  
+Time: 10:00 AM (Myanmar Time), 10:30 (Thailand Time), 12:30 (Japan Time)     
+Poster: []()       
+Presentation Slide: []()  
