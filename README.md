@@ -95,7 +95,8 @@ Poster:
 Presentation Slide: [Linguistics-in-a-nutshell.pdf](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/slide/Linguistics-in-a-nutshell.pdf)  
 
 11. Title: **Go overseas, See the world**  
-Guest Speaker: **Daniel Ryu**, Engineer development process director, PlayStation, Sony, USA  
+Guest Speaker: **Daniel Ryu**,   
+(Director of Development Process in Sony Interactive Entertainment Inc., Japan, Staff Technical Program Manager in Sony Interactive Entertainment LLC, USA)  
 Date: **23 Apr 2022**  
 Time: 10:00 AM (Myanmar Time), 10:30 (Thailand Time), 12:30 (Japan Time)     
 Poster: []()       
