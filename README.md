@@ -100,5 +100,5 @@ Guest Speaker: **Daniel Ryu**,
 Staff Technical Program Manager in Sony Interactive Entertainment LLC, USA)  
 Date: **23 Apr 2022**  
 Time: 10:00 AM (Myanmar Time), 10:30 (Thailand Time), 12:30 (Japan Time)     
-Poster: []()       
+Poster: [LU-Talks-Ryu-talk-23Apr2022.pdf](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/poster/LU-Talks-Ryu-talk-23Apr2022.pdf)       
 Presentation Slide: []()  
