@@ -7,3 +7,4 @@ TOC
 5. My Life's Journey as a Researcher and Beyond, Filename: dr-ronnie.jpg
 6. My Recent R&D Activities, Filename: Dr.AkkharawootTakhom-update.jpg  
 7. Pancreatic Cancer Research using Molecular Imaging and Animal Models, Filename: Pancreatic-Cancer-Research-using-Molecular-Imaging.pdf
+8. Improving Automatic Speech Recognition by Joint Training with Speaker Recognition and Translation Task, Filename: KakSoky-poster.pdf  
