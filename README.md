@@ -103,3 +103,11 @@ Time: 10:00 AM (Myanmar Time), 10:30 (Thailand Time), 12:30 (Japan Time)
 Poster: [LU-Talks-Ryu-talk-23Apr2022.pdf](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/poster/LU-Talks-Ryu-talk-23Apr2022.pdf)       
 Presentation Slide: [Go-overseas-See-the-world.pdf](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/slide/Go-overseas-See-the-world.pdf)  
 
+12. Title: **Pathways to Become an AI Expert**  
+Guest Speaker: **Dr. Sophea PRUM**,   
+(CBDO and co-founder at Elite Vigour tech company, Cambodia)  
+Date: **25 June 2022**  
+Time: 10:30 AM (Myanmar Time), 11:00 (Cambodia Time)     
+Poster: []()       
+Presentation Slide: []()  
+
