@@ -108,6 +108,6 @@ Guest Speaker: **Dr. Sophea PRUM**,
 (CBDO and co-founder at Elite Vigour tech company, Cambodia)  
 Date: **25 June 2022**  
 Time: 10:30 AM (Myanmar Time), 11:00 (Cambodia Time)     
-Poster: []()       
+Poster: [lu-talk-June2022.pdf](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/poster/lu-talk-June2022.pdf)       
 Presentation Slide: []()  
 
