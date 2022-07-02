@@ -109,5 +109,5 @@ Guest Speaker: **Dr. Sophea PRUM**,
 Date: **25 June 2022**  
 Time: 10:30 AM (Myanmar Time), 11:00 (Cambodia Time)     
 Poster: [lu-talk-June2022.pdf](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/poster/lu-talk-June2022.pdf)       
-Presentation Slide: []()  
+Presentation Slide: [Pathways-to-become-an-AI-expert.pdf](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/slide/Pathways-to-become-an-AI-expert.pdf)  
 
