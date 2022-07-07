@@ -91,7 +91,7 @@ Presentation Slide (Draft Version): [Handout-SustainableResourcesExploration-Mar
 Guest Speaker: **Dhanon Leenoi**, LST, NECTEC, Thailand  
 Date: **19 Mar 2022**  
 Time: 9:30 AM (Myanmar Time), 10:00 (Thailand Time)     
-Poster:      
+Poster:[DhanonLEENOI-update.pdf](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/poster/DhanonLEENOI-update.pdf)      
 Presentation Slide: [Linguistics-in-a-nutshell.pdf](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/slide/Linguistics-in-a-nutshell.pdf)  
 
 11. Title: **Go overseas, See the world**  
