@@ -111,10 +111,10 @@ Time: 10:30 AM (Myanmar Time), 11:00 (Cambodia Time)
 Poster: [lu-talk-June2022.pdf](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/poster/lu-talk-June2022.pdf)       
 Presentation Slide: [Pathways-to-become-an-AI-expert.pdf](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/slide/Pathways-to-become-an-AI-expert.pdf)  
 
-13. Title: **xxx xxx xxx**  
-Guest Speaker: **Dr. xxx **,   
-(xxx)  
-Date: **25 June 2022**  
+13. Title: **Medical Image Analysis in Retinal Diseases**  
+Guest Speaker: **Dr. Tin Tin Khaing**,   
+(Japan)  
+Date: **27 November 2022**  
 Time: 10:30 AM (Thailand Time), 12:30 (Japan Time)     
 Poster: [temp.pdf](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/poster/temp.pdf)       
 Presentation Slide: [temp.pdf](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/slide/temp.pdf)  
