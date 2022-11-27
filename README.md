@@ -116,6 +116,6 @@ Guest Speaker: **Dr. Tin Tin Khaing**,
 (Researcher, SAKI Corporation, Japan)  
 Date: **27 November 2022**  
 Time: 10:30 AM (Thailand Time), 12:30 (Japan Time)     
-Poster: [temp.pdf](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/poster/temp.pdf)       
+Poster: [Dr.TinTinKhaing-poster-ver6.pdf](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/poster/Dr.TinTinKhaing-poster-ver6.pdf)       
 
 
