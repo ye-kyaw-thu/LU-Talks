@@ -116,6 +116,14 @@ Guest Speaker: **Dr. Tin Tin Khaing**,
 (Researcher, SAKI Corporation, Japan)  
 Date: **27 November 2022**  
 Time: 10:30 AM (Thailand Time), 12:30 (Japan Time)     
-Poster: [Dr.TinTinKhaing-poster-ver6.pdf](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/poster/Dr.TinTinKhaing-poster-ver6.pdf)       
+Poster: [Dr.TinTinKhaing-poster-ver6.pdf](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/poster/Dr.TinTinKhaing-poster-ver6.pdf)      
+
+14. Title: **Cam Info Services, CIS **  
+Guest Speaker: **Mr. SUN Socheat**,   
+(President, Cam Info Services, Cambodia)  
+Date: **21 January 2023**  
+Time: 9:00 AM (Thailand Time, Cambodia Time)     
+Poster: [temp](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/poster/temp.pdf)      
+
 
 
