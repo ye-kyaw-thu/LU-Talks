@@ -123,7 +123,7 @@ Guest Speaker: **Mr. SUN Socheat**,
 (President, Cam Info Services, Cambodia)  
 Date: **21 January 2023**  
 Time: 9:00 AM (Thailand Time, Cambodia Time)     
-Poster: [temp](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/poster/temp.pdf)      
+Poster: [SocheatTalk5.pdf](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/poster/SocheatTalk5.pdf)      
 
 
 
