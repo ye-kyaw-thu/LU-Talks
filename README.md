@@ -131,7 +131,7 @@ Guest Speaker: **Engr. Allan S Cabanlong**,
 (Founder and CEO, Cyber Guardians, Philippines)  
 Date: **26 February 2023**  
 Time: 9:00 AM (Thailand Time, Cambodia Time)     
-Poster: []()      
+Poster: [allan-26Feb2023-talk-poster.pdf](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/poster/allan-26Feb2023-talk-poster.pdf)      
 <!-- Presentation Slide: []() -->  
 
 
