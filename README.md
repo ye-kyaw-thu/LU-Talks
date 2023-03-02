@@ -126,5 +126,13 @@ Time: 9:00 AM (Thailand Time, Cambodia Time)
 Poster: [SocheatTalk5.pdf](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/poster/SocheatTalk5.pdf)      
 Presentation Slide: [20230114SSocheat.pdf](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/slide/20230114SSocheat.pdf)  
 
+15. Title: **Cybersecurity leadership: Empowering organizations in a hybrid world**  
+Guest Speaker: **Engr. Allan S Cabanlong**,   
+(Founder and CEO, Cyber Guardians, Philippines)  
+Date: **26 February 2023**  
+Time: 9:00 AM (Thailand Time, Cambodia Time)     
+Poster: []()      
+<!-- Presentation Slide: []() -->  
+
 
 
