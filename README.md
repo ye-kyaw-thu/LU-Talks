@@ -134,5 +134,13 @@ Time: 9:00 AM (Thailand Time, Cambodia Time)
 Poster: [allan-26Feb2023-talk-poster.pdf](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/poster/allan-26Feb2023-talk-poster.pdf)      
 <!-- Presentation Slide: []() -->  
 
+16. Title: **My Transformation**  
+Guest Speaker: **Aung Kyaw Moe**,   
+(Founder and CEO of 2C2P)  
+Date: **23 July 2023**  
+Time: 10:00 AM (Thailand Time)     
+Poster: [preparing_wait_poster.pdf]()      
+<!-- Presentation Slide: []() -->  
+
 
 
