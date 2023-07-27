@@ -139,7 +139,7 @@ Guest Speaker: **Aung Kyaw Moe**,
 (Founder and CEO of 2C2P)  
 Date: **23 July 2023**  
 Time: 10:00 AM (Thailand Time)     
-Poster: [preparing_wait_poster.pdf]()      
+Poster: [AKM_Talk_My_Transformation_July2023.png](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/poster/AKM_Talk_My_Transformation_July2023.png)      
 <!-- Presentation Slide: []() -->  
 
 
