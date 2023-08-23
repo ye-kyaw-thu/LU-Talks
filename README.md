@@ -142,5 +142,12 @@ Time: 10:00 AM (Thailand Time)
 Poster: [AKM_Talk_My_Transformation_July2023.png](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/poster/AKM_Talk_My_Transformation_July2023.png)      
 <!-- Presentation Slide: []() -->  
 
+17. Title: **Image Captioning**
+Guest Speaker: **Dr.  Sanparith Marukatat**,   
+(Senior Researcher, NECTEC, Thailand)  
+Date: **2 Sept 2023**  
+Time: 09:00 AM (Thailand Time)     
+Poster: [temp.png](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/poster/dummy.png)      
+<!-- Presentation Slide: []() -->  
 
 
