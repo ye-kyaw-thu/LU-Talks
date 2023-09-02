@@ -147,7 +147,7 @@ Guest Speaker: **Dr.  Sanparith Marukatat**,
 (Senior Researcher, NECTEC, Thailand)  
 Date: **2 Sept 2023**  
 Time: 09:00 AM (Thailand Time)     
-Poster: [temp.png](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/poster/dummy.png)      
+Poster: [invited-talk-poster-September2023-ver2.pdf]([https://github.com/ye-kyaw-thu/LU-Talks/blob/main/poster/dummy.png](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/poster/invited-talk-poster-September2023-ver2.pdf)https://github.com/ye-kyaw-thu/LU-Talks/blob/main/poster/invited-talk-poster-September2023-ver2.pdf)      
 <!-- Presentation Slide: []() -->  
 
 
