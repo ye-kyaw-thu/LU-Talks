@@ -155,7 +155,7 @@ Guest Speaker: **Dr. Sheng LI**,
 (Tenure-track Researcher, NICT, Japan)  
 Date: **18 Nov 2023**  
 Time: 09:00 AM (Thailand Time)     
-Poster: []()
+Poster: [LU-Talk_ShengLi_18Nov2023-poster-draft11.pdf](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/poster/LU-Talk_ShengLi_18Nov2023-poster-draft11.pdf)
 <!-- Presentation Slide: []() -->  
 
 
