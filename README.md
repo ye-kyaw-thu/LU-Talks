@@ -143,11 +143,19 @@ Poster: [AKM_Talk_My_Transformation_July2023.png](https://github.com/ye-kyaw-thu
 <!-- Presentation Slide: []() -->  
 
 17. Title: **Image Captioning**  
-Guest Speaker: **Dr.  Sanparith Marukatat**,    
+Guest Speaker: **Dr. Sanparith Marukatat**,    
 (Senior Researcher, NECTEC, Thailand)  
 Date: **2 Sept 2023**  
 Time: 09:00 AM (Thailand Time)     
 Poster: [invited-talk-poster-September2023-ver2.pdf](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/poster/invited-talk-poster-September2023-ver2.pdf)
+<!-- Presentation Slide: []() -->  
+
+18. Title: **Combining Pretrained Language Model for Taiwan-accented Speech Recognition**  
+Guest Speaker: **Dr. Sheng LI**,    
+(Tenure-track Researcher, NICT, Japan)  
+Date: **18 Nov 2023**  
+Time: 09:00 AM (Thailand Time)     
+Poster: []()
 <!-- Presentation Slide: []() -->  
 
 
