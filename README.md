@@ -72,7 +72,7 @@ Presentation Slide: [220108-Seminar.pdf](https://github.com/ye-kyaw-thu/LU-Talks
 
 8. Title: **Improving Automatic Speech Recognition by Joint Training with Speaker Recognition and Translation Task**  
 Guest Speaker: **Mr. Kak Soky**,  
-Ph.D. Candidate, Speech and Audio Processing Laboratory (Karaharalab),  
+Ph.D. Candidate, Speech and Audio Processing Laboratory (Kawaharalab),  
 School of Informatics, Department of Intelligence Science and Technology, 
 Kyoto University, Kyoto, Japan  
 Date: **29 Jan 2022**  
