@@ -158,4 +158,15 @@ Time: 09:00 AM (Thailand Time)
 Poster: [LU-Talk_ShengLi_18Nov2023-poster-draft11.pdf](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/poster/LU-Talk_ShengLi_18Nov2023-poster-draft11.pdf)
 <!-- Presentation Slide: []() -->  
 
+19. Title: **From Smartwatches to Social Network Services: Digitalize Health with Ubiquitous and Personal Computing Technologies**  
+Guest Speaker-1: **Dr. Dr. Zilu Liang**,
+(Associate Professor and the Founding Director of the Ubiquitous and Personal Computing Lab, Kyoto University of Advanced Science (KUAS), Japan)
+Guest Speaker-2: **Mr. Prasan Yapa**,    
+(2nd year PhD candidate, the Faculty of Engineering, KUAS, Japan, Japan)  
+Date: **18 Feb 2024**  
+Time: 10:00 AM (Thailand Time)     
+Poster: [February-Talk-draft4-Zilu-and-Prasan-KUAS.pdf](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/poster/February-Talk-draft4-Zilu-and-Prasan-KUAS.pdf)
+<!-- Presentation Slide: []() -->  
+
+
 
