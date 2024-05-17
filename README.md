@@ -159,7 +159,7 @@ Poster: [LU-Talk_ShengLi_18Nov2023-poster-draft11.pdf](https://github.com/ye-kya
 <!-- Presentation Slide: []() -->  
 
 19. Title: **From Smartwatches to Social Network Services: Digitalize Health with Ubiquitous and Personal Computing Technologies**  
-Guest Speaker-1: **Dr. Dr. Zilu Liang**,  
+Guest Speaker-1: **Dr. Zilu Liang**,  
 (Associate Professor and the Founding Director of the Ubiquitous and Personal Computing Lab, Kyoto University of Advanced Science (KUAS), Japan)  
 Guest Speaker-2: **Mr. Prasan Yapa**,    
 (2nd year PhD candidate, the Faculty of Engineering, KUAS, Japan, Japan)   
