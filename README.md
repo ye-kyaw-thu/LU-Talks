@@ -168,5 +168,13 @@ Time: 10:00 AM (Thailand Time)
 Poster: [February-Talk-draft4-Zilu-and-Prasan-KUAS.pdf](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/poster/February-Talk-draft4-Zilu-and-Prasan-KUAS.pdf)
 <!-- Presentation Slide: []() -->  
 
+20. Title: **Myanmar Prosodic Structure Analysis and MY-ToBI Annotation System Development in Speech Corpus: Implications for Myanmar-Thai Machine Translation in Medical Domain**   
+Guest Speaker: **Mr. Tanintorn Limpisiri**,  
+(Mahidol University, Research Institute of Language and Culture of Asia, Majored in Linguistics)  
+Date: **18 May 2024**  
+Time: 10:00 AM (Thailand Time)     
+Poster: [Zen_LU_Talk.pdf](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/poster/Zen_LU_Talk.pdf)  
+Presentation Slide: [18-May-2024-Myanmar-Linguistic-to-NLP-Tanintorn-Limpisiri.pdf](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/slide/18-May-2024-Myanmar-Linguistic-to-NLP-Tanintorn-Limpisiri.pdf)  
+
 
 
