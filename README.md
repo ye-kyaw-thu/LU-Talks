@@ -176,5 +176,13 @@ Time: 10:00 AM (Thailand Time)
 Poster: [Zen_LU_Talk.pdf](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/poster/Zen_LU_Talk.pdf)  
 Presentation Slide: [18-May-2024-Myanmar-Linguistic-to-NLP-Tanintorn-Limpisiri.pdf](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/slide/18-May-2024-Myanmar-Linguistic-to-NLP-Tanintorn-Limpisiri.pdf)  
 
+21. Title: **Reduced-Complexity Scene Text Recognition Techniques**   
+Guest Speaker: **Mr. Buoy Rina**,  
+(Ph.D. Student, Osaka Metropolitan University, Osaka, Japan)  
+Date: **30 June 2024**  
+Time: 15:00 PM (Thailand/Cambodia Time)     
+Poster: [Mr.BuoyRina-LU%20talk.pdf](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/poster/Mr.BuoyRina-LU%20talk.pdf)  
+<!--  Presentation Slide: []()  -->    
+
 
 
