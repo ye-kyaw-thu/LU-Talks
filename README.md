@@ -182,7 +182,7 @@ Guest Speaker: **Mr. Buoy Rina**,
 Date: **30 June 2024**  
 Time: 15:00 PM (Thailand/Cambodia Time)     
 Poster: [Mr.BuoyRina-LU%20talk.pdf](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/poster/Mr.BuoyRina-LU%20talk.pdf)  
-<!--  Presentation Slide: []()  -->    
+Presentation Slide: [Talk-RCSTR_byRinaBuoy.pdf](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/slide/Talk-RCSTR_byRinaBuoy.pdf)    
 
 
 
