@@ -182,7 +182,15 @@ Guest Speaker: **Mr. Buoy Rina**,
 Date: **30 June 2024**  
 Time: 15:00 PM (Thailand/Cambodia Time)     
 Poster: [Mr.BuoyRina-LU%20talk.pdf](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/poster/Mr.BuoyRina-LU%20talk.pdf)  
-Presentation Slide: [Talk-RCSTR_byRinaBuoy.pdf](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/slide/Talk-RCSTR_byRinaBuoy.pdf)    
+Presentation Slide: [Talk-RCSTR_byRinaBuoy.pdf](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/slide/Talk-RCSTR_byRinaBuoy.pdf)  
+
+22. Title: **Scholarship to service: Leveraging Degrees for Global Health Impact**   
+Guest Speaker: **Dr. Thidar Pyone**,  
+(PhD, EPH, MPH, MBBS)  
+Date: **10 Aug 2024**  
+Time: 14:00 PM (Thailand Time), 09:00 AM (Swiss Time)       
+Poster: [wait]()  
+Presentation Slide: [wait]()    
 
 
 
