@@ -189,8 +189,8 @@ Guest Speaker: **Dr. Thidar Pyone**,
 (PhD, EPH, MPH, MBBS)  
 Date: **10 Aug 2024**  
 Time: 14:00 PM (Thailand Time), 09:00 AM (Swiss Time)       
-Poster: [wait]()  
-Presentation Slide: [wait]()    
+Poster: [LU_Talk_10Aug2024_Poster_Final.pdf](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/poster/LU_Talk_10Aug2024_Poster_Final.pdf)  
+  
 
 
 
