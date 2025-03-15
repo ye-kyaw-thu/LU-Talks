@@ -196,7 +196,7 @@ Guest Speaker: **Dr. Ohnmar Htun**,
 (Research Scientist, Rakuten Institute of Technology-Singapore, Rakuten Asia Pte. Ltd.)  
 Date: **15 Mar 2025**  
 Time: 10:00 PM (Thailand Time), 11:00 AM (Singapore Time)       
-Poster: 
+Poster: [LU-Talk_Mar_2025.pdf](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/poster/LU-Talk_Mar_2025.pdf)  
   
 
 
