@@ -189,7 +189,14 @@ Guest Speaker: **Dr. Thidar Pyone**,
 (PhD, EPH, MPH, MBBS)  
 Date: **10 Aug 2024**  
 Time: 14:00 PM (Thailand Time), 09:00 AM (Swiss Time)       
-Poster: [LU_Talk_10Aug2024_Poster_Final.pdf](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/poster/LU_Talk_10Aug2024_Poster_Final.pdf)  
+Poster: [LU_Talk_10Aug2024_Poster_Final.pdf](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/poster/LU_Talk_10Aug2024_Poster_Final.pdf)
+
+23. Title: **The Impact of Large Language Models on Machine Translation**   
+Guest Speaker: **Dr. Ohnmar Htun**,  
+(Research Scientist, Rakuten Institute of Technology-Singapore, Rakuten Asia Pte. Ltd.)  
+Date: **15 Mar 2025**  
+Time: 10:00 PM (Thailand Time), 11:00 AM (Singapore Time)       
+Poster: 
   
 
 
