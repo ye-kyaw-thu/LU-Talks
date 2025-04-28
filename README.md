@@ -195,8 +195,15 @@ Poster: [LU_Talk_10Aug2024_Poster_Final.pdf](https://github.com/ye-kyaw-thu/LU-T
 Guest Speaker: **Dr. Ohnmar Htun**,  
 (Research Scientist, Rakuten Institute of Technology-Singapore, Rakuten Asia Pte. Ltd.)  
 Date: **15 Mar 2025**  
-Time: 10:00 PM (Thailand Time), 11:00 AM (Singapore Time)       
-Poster: [LU-Talk_Mar_2025.pdf](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/poster/LU-Talk_Mar_2025.pdf)  
+Time: 10:00 AM (Thailand Time), 11:00 AM (Singapore Time)       
+Poster: [LU-Talk_Mar_2025.pdf](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/poster/LU-Talk_Mar_2025.pdf)
+
+24. Title: **Toward Truly-autonomous Distributed Computing Environment**   
+Guest Speaker: **Hidehiro Kanemitsu, Ph. D**,  
+(Global Education Center, Waseda University, Japan.)  
+Date: **28 April 2025**  
+Time: 11:00 AM (Thailand Time), 13:30 AM (Japan Time)       
+Poster: [LU_Talk_April_2025_Poster2.pdf](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/poster/LU_Talk_April_2025_Poster2.pdf)
   
 
 
