@@ -200,7 +200,7 @@ Poster: [LU-Talk_Mar_2025.pdf](https://github.com/ye-kyaw-thu/LU-Talks/blob/main
 
 24. Title: **Toward Truly-autonomous Distributed Computing Environment**   
 Guest Speaker: **Hidehiro Kanemitsu, Ph. D**,  
-(Global Education Center, Waseda University, Japan.)  
+(Associate Professor, Global Education Center, Waseda University, Japan.)  
 Date: **28 April 2025**  
 Time: 11:00 AM (Thailand Time), 13:30 AM (Japan Time)       
 Poster: [LU_Talk_April_2025_Poster2.pdf](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/poster/LU_Talk_April_2025_Poster2.pdf)
