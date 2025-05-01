@@ -202,9 +202,10 @@ Poster: [LU-Talk_Mar_2025.pdf](https://github.com/ye-kyaw-thu/LU-Talks/blob/main
 Guest Speaker: **Hidehiro Kanemitsu, Ph. D**,  
 (Associate Professor, Global Education Center, Waseda University, Japan.)  
 Date: **28 April 2025**  
-Time: 11:00 AM (Thailand Time), 13:00 AM (Japan Time)       
-Poster: [LU_Talk_April_2025_Poster2.pdf](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/poster/LU_Talk_April_2025_Poster2.pdf)
-  
+Time: 11:00 AM (Thailand Time), 13:00 AM (Japan Time)  
+Poster: [LU_Talk_April_2025_Poster2.pdf](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/poster/LU_Talk_April_2025_Poster2.pdf)  
+Presentation Slide: [kanemitsu-slide.pdf](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/slide/kanemitsu-slide.pdf)
+
 
 
 
