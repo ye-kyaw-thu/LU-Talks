@@ -206,6 +206,14 @@ Time: 11:00 AM (Thailand Time), 13:00 AM (Japan Time)
 Poster: [LU_Talk_April_2025_Poster2.pdf](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/poster/LU_Talk_April_2025_Poster2.pdf)  
 Presentation Slide: [kanemitsu-slide.pdf](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/slide/kanemitsu-slide.pdf)
 
+25. Title: **Introduction to Physics-Inspired Energy Transition Neural Network (PETNN)**   
+Guest Speaker: **Ye Kyaw Thu**,  
+(Lab Leader, LU Lab., Myanmar)  
+Date: **25 May 2025**  
+Time: 10:30 AM (Thailand Time), 10:00 AM (Myanmar Time)  
+Poster: [LU_Talk_May2025_poster.pdf](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/poster/LU_Talk_May2025_poster.pdf)  
+Presentation Slide: [LU_Talk_Ye_25May2025.pdf](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/slide/LU_Talk_Ye_25May2025.pdf)
+
 
 
 
