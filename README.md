@@ -220,7 +220,7 @@ Speaker: **Dr. Khaing Hsu Wai**,
 Date: **7 June 2025**  
 Time: 9:00 AM (Thailand Time), 8:30 AM (Myanmar Time)  
 Poster: [Talk_Poster_Khaing_ver2.png](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/poster/Talk_Poster_Khaing_ver2.png)  
-Presentation Slide: []()
+Presentation Slide: [LU_Talk_Khaing.pdf](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/slide/LU_Talk_Khaing.pdf)  
 
 
 
