@@ -214,6 +214,16 @@ Time: 10:30 AM (Thailand Time), 10:00 AM (Myanmar Time)
 Poster: [LU_Talk_May2025_poster.pdf](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/poster/LU_Talk_May2025_poster.pdf)  
 Presentation Slide: [LU_Talk_Ye_25May2025.pdf](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/slide/LU_Talk_Ye_25May2025.pdf)
 
+25. Title: **String Similarity Measures for Myanmar Language and Code Validation and Modification in Java and JavaScript for Programming Education**  
+Speaker: **Dr. Khaing Hsu Wai**,  
+(Assistant Professor, Akita University, Japan)  
+Date: **7 June 2025**  
+Time: 9:00 AM (Thailand Time), 8:30 AM (Myanmar Time)  
+Poster: [Talk_Poster_Khaing_ver2.png](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/poster/Talk_Poster_Khaing_ver2.png)  
+Presentation Slide: []()
+
+
+
 
 
 
