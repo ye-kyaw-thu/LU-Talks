@@ -222,6 +222,14 @@ Time: 9:00 AM (Thailand Time), 8:30 AM (Myanmar Time)
 Poster: [Talk_Poster_Khaing_ver2.png](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/poster/Talk_Poster_Khaing_ver2.png)  
 Presentation Slide: [LU_Talk_Khaing.pdf](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/slide/LU_Talk_Khaing.pdf)  
 
+26. Title: **Managing Workplace Diversity**  
+Speaker: **Chikae Naito**,  
+(Associate Professor, Musashi University, Japan)  
+Date: **31 August 2025**  
+Time: 12:00 PM (Thailand Time), 14:00 AM (Japan Time)  
+Poster: [Talk_Poster_Khaing_ver2.png]()  
+Presentation Slide:[AUG31Managing workplace diversity.pdf](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/slide/AUG31Managing%20workplace%20diversity.pdf)
+
 
 
 
