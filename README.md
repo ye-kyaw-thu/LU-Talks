@@ -227,7 +227,7 @@ Speaker: **Chikae Naito**,
 (Associate Professor, Musashi University, Japan)  
 Date: **31 August 2025**  
 Time: 12:00 PM (Thailand Time), 14:00 AM (Japan Time)  
-Poster: [Talk_Poster_Khaing_ver2.png]()  
+Poster: [Talk_Poster_Khaing_ver2.png](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/poster/LU-Talk_Aug2025_ver2.pdf)  
 Presentation Slide:[AUG31Managing workplace diversity.pdf](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/slide/AUG31Managing%20workplace%20diversity.pdf)
 
 
