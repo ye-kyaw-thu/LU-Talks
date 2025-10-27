@@ -227,9 +227,16 @@ Speaker: **Chikae Naito**,
 (Associate Professor, Musashi University, Japan)  
 Date: **31 August 2025**  
 Time: 12:00 PM (Thailand Time), 14:00 AM (Japan Time)  
-Poster: [Talk_Poster_Khaing_ver2.png](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/poster/LU-Talk_Aug2025_ver2.pdf)  
+Poster: [LU-Talk_Aug2025_ver2.pdf](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/poster/LU-Talk_Aug2025_ver2.pdf)  
 Presentation Slide:[AUG31Managing workplace diversity.pdf](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/slide/AUG31Managing%20workplace%20diversity.pdf)
 
+27. Title: **Theoretical Framework for Machine Learning Researcher**  
+Speaker: **Dr. Myo Myint Oo**,  
+(Ph.D. (Computer Engineering), Prince of Songkhla University, Hatyai (Campus) , Thailand )  
+Date: **26 October 2025**  
+Time: 10:00 AM (Myanmar Time)  
+Poster: [LU_Talk_Oct2025_Poster.pdf](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/poster/LU_Talk_Oct2025_Poster.pdf)  
+Presentation Slide:[Theoretical%20Framework%20for%20Machine%20Learning%20Researcher%20by%20Dr.%20Myo.pptx.pdf](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/slide/Theoretical%20Framework%20for%20Machine%20Learning%20Researcher%20by%20Dr.%20Myo.pptx.pdf)
 
 
 
