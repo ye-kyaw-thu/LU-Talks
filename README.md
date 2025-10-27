@@ -236,7 +236,7 @@ Speaker: **Dr. Myo Myint Oo**,
 Date: **26 October 2025**  
 Time: 10:00 AM (Myanmar Time)  
 Poster: [LU_Talk_Oct2025_Poster.pdf](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/poster/LU_Talk_Oct2025_Poster.pdf)  
-Presentation Slide:[Theoretical%20Framework%20for%20Machine%20Learning%20Researcher%20by%20Dr.%20Myo.pptx.pdf](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/slide/Theoretical%20Framework%20for%20Machine%20Learning%20Researcher%20by%20Dr.%20Myo.pptx.pdf)
+Presentation Slide:[Theoretical Framework for Machine Learning Researcher by Dr. Myo.pptx.pdf](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/slide/Theoretical%20Framework%20for%20Machine%20Learning%20Researcher%20by%20Dr.%20Myo.pptx.pdf)  
 
 
 
