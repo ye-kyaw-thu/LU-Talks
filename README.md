@@ -214,7 +214,7 @@ Time: 10:30 AM (Thailand Time), 10:00 AM (Myanmar Time)
 Poster: [LU_Talk_May2025_poster.pdf](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/poster/LU_Talk_May2025_poster.pdf)  
 Presentation Slide: [LU_Talk_Ye_25May2025.pdf](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/slide/LU_Talk_Ye_25May2025.pdf)
 
-25. Title: **String Similarity Measures for Myanmar Language and Code Validation and Modification in Java and JavaScript for Programming Education**  
+26. Title: **String Similarity Measures for Myanmar Language and Code Validation and Modification in Java and JavaScript for Programming Education**  
 Speaker: **Dr. Khaing Hsu Wai**,  
 (Assistant Professor, Akita University, Japan)  
 Date: **7 June 2025**  
@@ -222,7 +222,7 @@ Time: 9:00 AM (Thailand Time), 8:30 AM (Myanmar Time)
 Poster: [Talk_Poster_Khaing_ver2.png](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/poster/Talk_Poster_Khaing_ver2.png)  
 Presentation Slide: [LU_Talk_Khaing.pdf](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/slide/LU_Talk_Khaing.pdf)  
 
-26. Title: **Managing Workplace Diversity**  
+27. Title: **Managing Workplace Diversity**  
 Speaker: **Chikae Naito**,  
 (Associate Professor, Musashi University, Japan)  
 Date: **31 August 2025**  
@@ -230,7 +230,7 @@ Time: 12:00 PM (Thailand Time), 14:00 AM (Japan Time)
 Poster: [LU-Talk_Aug2025_ver2.pdf](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/poster/LU-Talk_Aug2025_ver2.pdf)  
 Presentation Slide:[AUG31Managing workplace diversity.pdf](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/slide/AUG31Managing%20workplace%20diversity.pdf)
 
-27. Title: **Theoretical Framework for Machine Learning Researcher**  
+28. Title: **Theoretical Framework for Machine Learning Researcher**  
 Speaker: **Dr. Myo Myint Oo**,  
 (Ph.D. (Computer Engineering), Prince of Songkhla University, Hatyai (Campus) , Thailand )  
 Date: **26 October 2025**  
