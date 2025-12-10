@@ -236,7 +236,16 @@ Speaker: **Dr. Myo Myint Oo**,
 Date: **26 October 2025**  
 Time: 10:00 AM (Myanmar Time)  
 Poster: [LU_Talk_Oct2025_Poster.pdf](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/poster/LU_Talk_Oct2025_Poster.pdf)  
-Presentation Slide:[Theoretical Framework for Machine Learning Researcher by Dr. Myo.pptx.pdf](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/slide/Theoretical%20Framework%20for%20Machine%20Learning%20Researcher%20by%20Dr.%20Myo.pptx.pdf)  
+Presentation Slide:[Theoretical Framework for Machine Learning Researcher by Dr. Myo.pptx.pdf](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/slide/Theoretical%20Framework%20for%20Machine%20Learning%20Researcher%20by%20Dr.%20Myo.pptx.pdf)
+
+29. Title: **From Pixels To Progress: AI And Computer Vision For a Smarter, Safer World**  
+Speaker: **Dr. Thittaporn Ganokratanaa**,  
+( Assistant Professor, KMUTT, Thailand )  
+Date: **30 November 2025**  
+Time: 1:00 PM to 2:00 PM  (Thailand Time)  
+Poster: [LU_Talk_Nov_2025_Poster_draft.ver.1.0.pdf](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/poster/LU_Talk_Nov_2025_Poster_draft.ver.1.0.pdf)
+
+
 
 
 
