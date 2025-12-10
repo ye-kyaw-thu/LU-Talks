@@ -240,7 +240,7 @@ Presentation Slide:[Theoretical Framework for Machine Learning Researcher by Dr.
 
 29. Title: **From Pixels To Progress: AI And Computer Vision For a Smarter, Safer World**  
 Speaker: **Dr. Thittaporn Ganokratanaa**,  
-( Assistant Professor, KMUTT, Thailand )  
+(Assistant Professor, KMUTT, Thailand)  
 Date: **30 November 2025**  
 Time: 1:00 PM to 2:00 PM  (Thailand Time)  
 Poster: [LU_Talk_Nov_2025_Poster_draft.ver.1.0.pdf](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/poster/LU_Talk_Nov_2025_Poster_draft.ver.1.0.pdf)
