@@ -245,6 +245,21 @@ Date: **30 November 2025**
 Time: 1:00 PM to 2:00 PM  (Thailand Time)  
 Poster: [LU_Talk_Nov_2025_Poster_draft.ver.1.0.pdf](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/poster/LU_Talk_Nov_2025_Poster_draft.ver.1.0.pdf)
 
+30. Title: **Transition from Academic to Business Life**  
+Speaker: **Dr. Vu Truong Thanh**,  
+(Senior Manager, Toshiba Asia Pacific PTE. Ltd, Regional General Director, Toshiba Elevator Vietnam Co.)  
+Date: **20 December 2025**  
+Time: 10:00 PM to 11:00 PM  (Vietnam Time, Thailand Time)  
+Poster: [LU-Talk_Dec2025_draft_ver0.2.pdf](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/poster/LU-Talk_Dec2025_draft_ver0.2.pdf)
+Presentation Slide: [Transition-from-Academic-to-Business-Life-Vu-Truong-Thanh-2020251219.pdf](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/slide/Transition%20from%20Academic%20to%20Business%20life%20Vu%20Truong%20Thanh%2020251219.pdf)
+
+31. Title: ****  
+Speaker: ****,  
+()  
+Date: **20 December 2025**  
+Time: 11:00 PM to 12:00 PM  (Vietnam Time, Thailand Time)  
+Poster: [LU-Talk2_Dec2025_updated.pdf](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/poster/LU-Talk2_Dec2025_updated.pdf)
+
 
 
 
