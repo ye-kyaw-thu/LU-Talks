@@ -232,7 +232,7 @@ Presentation Slide:[AUG31Managing workplace diversity.pdf](https://github.com/ye
 
 28. Title: **Theoretical Framework for Machine Learning Researcher**  
 Speaker: **Dr. Myo Myint Oo**,  
-(Ph.D. (Computer Engineering), Prince of Songkhla University, Hatyai (Campus) , Thailand )  
+(Ph.D. Computer Engineering, Prince of Songkhla University, Hatyai Campus, Thailand )  
 Date: **26 October 2025**  
 Time: 10:00 AM (Myanmar Time)  
 Poster: [LU_Talk_Oct2025_Poster.pdf](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/poster/LU_Talk_Oct2025_Poster.pdf)  
