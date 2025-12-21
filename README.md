@@ -223,7 +223,7 @@ Poster: [Talk_Poster_Khaing_ver2.png](https://github.com/ye-kyaw-thu/LU-Talks/bl
 Presentation Slide: [LU_Talk_Khaing.pdf](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/slide/LU_Talk_Khaing.pdf)  
 
 27. Title: **Managing Workplace Diversity**  
-Speaker: **Chikae Naito**,  
+Speaker: **Dr. Chikae Naito**,  
 (Associate Professor, Musashi University, Japan)  
 Date: **31 August 2025**  
 Time: 12:00 PM (Thailand Time), 14:00 AM (Japan Time)  
