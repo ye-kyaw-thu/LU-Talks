@@ -259,7 +259,15 @@ Speaker: **Dr. Prachya Boonkwan**,
 Date: **20 December 2025**  
 Time: 11:00 PM to 12:00 PM  (Thailand Time)  
 Poster: [LU-Talk2_Dec2025_updated.pdf](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/poster/LU-Talk2_Dec2025_updated.pdf)  
-Presentation Slide: [Hyperdimensional-Computing.pdf](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/slide/20231111%20Hyperdimensional%20Computing.pdf)
+Presentation Slide: [Hyperdimensional-Computing.pdf](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/slide/20231111%20Hyperdimensional%20Computing.pdf)  
+
+33. Title: **Liquid Neural Networks (LNNs)**  
+Speaker: **Ye Kyaw Thu**,  
+(Lab Leader, LU Lab., Myanmar)  
+Date: **25 Jan 2026**  
+Time: 10:00 AM to 12:30 (Myanmar Time)  
+Poster: []()  
+Presentation Slide: []()  
 
 
 
