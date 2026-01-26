@@ -266,7 +266,8 @@ Speaker: **Ye Kyaw Thu**,
 (Lab Leader, LU Lab., Myanmar)  
 Date: **25 Jan 2026**  
 Time: 10:00 AM to 12:30 (Myanmar Time)  
-Poster: []()  
+Poster: [LU-Talk-Jan2026.pdf](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/poster/LU-Talk-Jan2026.pdf)  
+Poster (PNG): [LU-Talk-Jan2026q.png](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/poster/LU-Talk-Jan2026q.png)  
 Presentation Slide: [Liquid_Neural_Networks_(LNNs)_25Jan2026_version.pdf](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/slide/Liquid_Neural_Networks_(LNNs)_25Jan2026_version.pdf)  
 
 
