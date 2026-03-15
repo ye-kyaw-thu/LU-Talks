@@ -275,8 +275,16 @@ Speaker: **Dr. Su Mie**,
 (Formaly Prof. Mie Mie Su Thwin)  
 Date: **22 Feb 2026**  
 Time: 10:00 AM to 11:30 (Myanmar Time)  
-Poster: [LU-Talk-22-Feb-2026.pdf](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/poster/LU-Talk-22-Feb-2026.pdf)
-Poster (PNG): []()  
+Poster: [LU-Talk-22-Feb-2026.pdf](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/poster/LU-Talk-22-Feb-2026.pdf)  
+Poster (PNG): [LU-Talk-22-Feb-2026.png](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/poster/LU-Talk-22-Feb-2026.png)  
 
+34. Title: **Analysis of the "Fluent but Cold" Phenomenon: Usage and Prosody of Non-Lexical Backchannels 
+among Myanmar Learners of Japanese**  
+Speaker: **Ms. Lae Lae Htun**,  
+(PhD Student, Saitama University, Japan)    
+Date: **8 Mar 2026**  
+Time: 10:00 AM to 11:30  (ICT, UTC+7), 12:00 to 13:30 (JST, UTC+9)   
+Poster: []()
+Poster (PNG):  
 
 
