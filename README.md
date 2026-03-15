@@ -290,6 +290,6 @@ Poster (PNG): [LU-Talk-for-8Mar2026-LLH.png](https://github.com/ye-kyaw-thu/LU-T
 Speaker: **Prof. Dr. Mee SONU**,  
 (Saitama University, Japan)   
 Date: **8 Mar 2026**  
-Time: 10:00 AM to 11:30  (ICT, UTC+7), 12:00 to 13:30 (JST, UTC+9)     
-Poster: []() 
-Poster (PNG): []()
+Time: 10:00 AM to 11:30  (ICT, UTC+7), 12:00 to 13:30 (JST, UTC+9)   
+Poster: [LU-Talk-for-8Mar2026.pdf](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/poster/LU-Talk-for-8Mar2026.pdf)   
+Poster (PNG): [LU-Talk-for-8Mar2026.png](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/poster/LU-Talk-for-8Mar2026.png)
