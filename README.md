@@ -275,7 +275,8 @@ Speaker: **Dr. Su Mie**,
 (Formaly Prof. Mie Mie Su Thwin)  
 Date: **22 Feb 2026**  
 Time: 10:00 AM to 11:30 (Myanmar Time)  
-Poster: 
+Poster: [LU-Talk-22-Feb-2026.pdf](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/poster/LU-Talk-22-Feb-2026.pdf)
+Poster (PNG): []()  
 
 
 
