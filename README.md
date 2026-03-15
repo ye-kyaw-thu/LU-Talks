@@ -286,9 +286,9 @@ Time: 10:00 AM to 11:30  (ICT, UTC+7), 12:00 to 13:30 (JST, UTC+9)
 Poster: [LU-Talk-for-8Mar2026-LLH.pdf](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/poster/LU-Talk-for-8Mar2026-LLH.pdf)  
 Poster (PNG): [LU-Talk-for-8Mar2026-LLH.png](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/poster/LU-Talk-for-8Mar2026-LLH.png)  
 
-35. Title: ****  
-Speaker: ****,  
-()    
+35. Title: **Perceptual Characteristics of Japanese Length Contrasts at Various Speaking Rate by Burmese Native Listeners**  
+Speaker: **Prof. Dr. Mee SONU **,  
+(Saitama University, Japan)   
 Date: **8 Mar 2026**  
 Time: 10:00 AM to 11:30  (ICT, UTC+7), 12:00 to 13:30 (JST, UTC+9)     
 Poster: []() 
