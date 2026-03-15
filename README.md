@@ -270,7 +270,12 @@ Poster: [LU-Talk-Jan2026.pdf](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/
 Poster (PNG): [LU-Talk-Jan2026q.png](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/poster/LU-Talk-Jan2026q.png)  
 Presentation Slide: [Liquid_Neural_Networks_(LNNs)_25Jan2026_version.pdf](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/slide/Liquid_Neural_Networks_(LNNs)_25Jan2026_version.pdf)  
 
-
+33. Title: **The Human Algorithm: Conscious Reprogramming for Research Excellence**  
+Speaker: **Dr. Su Mie**,
+(Formaly Prof. Mie Mie Su Thwin)  
+Date: **22 Feb 2026**  
+Time: 10:00 AM to 11:30 (Myanmar Time)  
+Poster: 
 
 
 
