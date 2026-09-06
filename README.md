@@ -292,9 +292,16 @@ Speaker: **Prof. Dr. Mee SONU**,
 Date: **8 Mar 2026**  
 Time: 10:00 AM to 11:30  (ICT, UTC+7), 12:00 to 13:30 (JST, UTC+9)   
 Poster: [LU-Talk-for-8Mar2026.pdf](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/poster/LU-Talk-for-8Mar2026.pdf)   
-Poster (PNG): [LU-Talk-for-8Mar2026.png](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/poster/LU-Talk-for-8Mar2026.png)
+Poster (PNG): [LU-Talk-for-8Mar2026.png](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/poster/LU-Talk-for-8Mar2026.png)  
 
-36. Title: **From Research to Real-World Applicaitons: AI and NLP in Industry**   
+36. Title: **Learning Journey of a Resource Teacher Vision**  
+Speaker: **Ms. Yin Yin Htay**  
+(Resource Teacher Vision, BLENNZ, New Zealand)  
+Date: **7 June 2026**   
+Time: 10:00 (Myanmar STD), 15:00 (New Zealand STD)  
+Poster: [LU-Talk_June2026.png](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/poster/LU-Talk_June2026.png)    
+
+38. Title: **From Research to Real-World Applicaitons: AI and NLP in Industry**   
 Speaker: **Dr. Zar Zar Hlaing**  
 (AI & NLP Specialist)  
 Date: **18 July 2026**   
@@ -302,7 +309,7 @@ Time: 10:00 AM (Myanmar Time)
 Poster: [LU-Talk-37-July2026.pdf](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/poster/LU-Talk-37-July2026.pdf)  
 Slide: [LU-Talk_18-JULY-2026.pdf](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/slide/LU-Talk_18-JULY-2026.pdf)  
 
-38. Title: **Topology-Preserving Contrastive Learning for Taxonomy Induction in Thai Lexical Semantics**  
+39. Title: **Topology-Preserving Contrastive Learning for Taxonomy Induction in Thai Lexical Semantics**  
 Speaker: **Mr. Peerachet Porkaew**  
 (Core-AI Research Team, NECTEC, Thailand)  
 Date: **6 Sept 2026**  
