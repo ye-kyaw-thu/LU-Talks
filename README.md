@@ -297,7 +297,7 @@ Poster (PNG): [LU-Talk-for-8Mar2026.png](https://github.com/ye-kyaw-thu/LU-Talks
 36. Title: **From Research to Real-World Applicaitons: AI and NLP in Industry**   
 Speaker: **Dr. Zar Zar Hlaing**  
 (AI & NLP Specialist)  
-Date: 18 July 2026   
+Date: **18 July 2026**   
 Time: 10:00 AM (Myanmar Time)  
 Poster: [LU-Talk-37-July2026.pdf](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/poster/LU-Talk-37-July2026.pdf)  
 Slide: [LU-Talk_18-JULY-2026.pdf](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/slide/LU-Talk_18-JULY-2026.pdf)  
