@@ -301,7 +301,7 @@ Date: **7 June 2026**
 Time: 10:00 (Myanmar STD), 15:00 (New Zealand STD)  
 Poster: [LU-Talk_June2026.png](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/poster/LU-Talk_June2026.png)    
 
-38. Title: **From Research to Real-World Applicaitons: AI and NLP in Industry**   
+37. Title: **From Research to Real-World Applicaitons: AI and NLP in Industry**   
 Speaker: **Dr. Zar Zar Hlaing**  
 (AI & NLP Specialist)  
 Date: **18 July 2026**   
@@ -309,7 +309,7 @@ Time: 10:00 AM (Myanmar Time)
 Poster: [LU-Talk-37-July2026.pdf](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/poster/LU-Talk-37-July2026.pdf)  
 Slide: [LU-Talk_18-JULY-2026.pdf](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/slide/LU-Talk_18-JULY-2026.pdf)  
 
-39. Title: **Topology-Preserving Contrastive Learning for Taxonomy Induction in Thai Lexical Semantics**  
+38. Title: **Topology-Preserving Contrastive Learning for Taxonomy Induction in Thai Lexical Semantics**  
 Speaker: **Mr. Peerachet Porkaew**  
 (Core-AI Research Team, NECTEC, Thailand)  
 Date: **6 Sept 2026**  
