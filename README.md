@@ -292,4 +292,13 @@ Speaker: **Prof. Dr. Mee SONU**,
 Date: **8 Mar 2026**  
 Time: 10:00 AM to 11:30  (ICT, UTC+7), 12:00 to 13:30 (JST, UTC+9)   
 Poster: [LU-Talk-for-8Mar2026.pdf](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/poster/LU-Talk-for-8Mar2026.pdf)   
-Poster (PNG): [LU-Talk-for-8Mar2026.png](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/poster/LU-Talk-for-8Mar2026.png)
+Poster (PNG): [LU-Talk-for-8Mar2026.png](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/poster/LU-Talk-for-8Mar2026.png)  
+
+36. Title: **Topology-Preserving Contrastive Learning for Taxonomy Induction in Thai Lexical Semantics**  
+Speaker: **Mr. Peerachet Porkaew**  
+(Core-AI Research Team, NECTEC, Thailand)  
+Date: **6 Sept 2026**  
+Time: 13:00 to 14:00 (Thailand Time)  
+Poster: [LU_talk_chet.pdf](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/poster/LU_talk_chet.pdf)  
+Slide: [LCCL_Peerachet.pdf](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/slide/LCCL_Peerachet.pdf)   
+
