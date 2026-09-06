@@ -299,8 +299,8 @@ Speaker: **Dr. Zar Zar Hlaing**
 (AI & NLP Specialist)  
 Date: 18 July 2026   
 Time: 10:00 AM (Myanmar Time)  
-Poster: [LU-Talk-37-July2026.pdf](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/poster/LU-Talk-37-July2026.pdf)
-Slide: []()  
+Poster: [LU-Talk-37-July2026.pdf](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/poster/LU-Talk-37-July2026.pdf)  
+Slide: [LU-Talk_18-JULY-2026.pdf](https://github.com/ye-kyaw-thu/LU-Talks/blob/main/slide/LU-Talk_18-JULY-2026.pdf)  
 
 38. Title: **Topology-Preserving Contrastive Learning for Taxonomy Induction in Thai Lexical Semantics**  
 Speaker: **Mr. Peerachet Porkaew**  
